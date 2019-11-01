@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^index$ boards.php
+AddType application/xhttpd-php . htm .html
